@@ -1,0 +1,12 @@
+body{
+    background-image: url("/RESOURCES/IMAGES/wallpaper9.jpg"); /*La ruta donde se encuentra mi imagen*/
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    /* Esta es la imagen de fondo de mi pagina web implementada con CSS*/
+
+ 
+          
+
+}
